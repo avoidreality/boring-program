@@ -1,5 +1,5 @@
 # boring-program
-A Java program that prints text to the console. Let us not kid ourselves. This is a text-based video game of the lowest quality.
+An absurd Java program that prints text to the console. Let us not kid ourselves. This is a text-based video game of the lowest quality.
 
 <h1>How To Run The Program</h1>
 To run the program download 'boring.jar' and execute it like so: <code>java -jar boring.jar</code>
