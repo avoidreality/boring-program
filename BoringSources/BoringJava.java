@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class BoringJava {
 	
 	public BoringJava(String s) {
-		if (s.equals("GalacticSunglasses")) {
+		if ("GalacticSunglasses".equals(s)) {
 			System.out.println("Congratulations you won!");
 		}
 		System.exit(0);

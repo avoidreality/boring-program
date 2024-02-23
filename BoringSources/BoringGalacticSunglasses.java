@@ -14,7 +14,7 @@ public class BoringGalacticSunglasses {
 		Scanner s = new Scanner(System.in);
 		String choice = s.next();
 		
-		if (choice.equals("Y")) 
+		if ("Y".equals(choice)) 
 			new BoringJava("GalacticSunglasses");
 		else
 			new BoringJava();
